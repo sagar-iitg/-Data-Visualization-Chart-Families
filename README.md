@@ -3,11 +3,11 @@
 
 Chart Families
 
-Line chart
-Area Chart
-stacked area chart
-Bump Chart
-slope graph
-streamgraph
-connected scatter plot
-Gantt chart
+Line chart<br>
+Area Chart<br>
+stacked area chart<br>
+Bump Chart<br>
+slope graph<br>
+streamgraph<br>
+connected scatter plot<br>
+Gantt chart<br>
